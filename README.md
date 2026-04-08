@@ -1,66 +1,70 @@
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=200&section=header&text=Khadija%20Rahman%20Nupur&fontSize=35&fontColor=ffffff" />
+<!-- Cover Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Khadija%20Rahman%20Nupur&fontSize=35&fontColor=ffffff" />
 
-# Hi 👋 I'm Khadija Rahman Nupur  
-💻 Frontend Developer  
-🚀 React Learner (Intermediate Journey Starting...)  
+<h1 align="center">Hi 👋, I'm Khadija Rahman Nupur</h1>
+<h3 align="center">Frontend Developer | React Learner 🚀</h3>
 
 ---
 
 ## 🧠 About Me
+
+- 💻 Passionate about **Frontend Development**
 - 🌱 Currently learning **React (Intermediate Level)**
-- 🎯 Goal: Become a professional Frontend Developer
-- 💡 I love building clean & responsive UI
-- ⚡ Fun fact: I enjoy turning ideas into real websites
+- 🎯 Goal: Become a **Professional Frontend Developer**
+- ⚡ I love building **clean, responsive & user-friendly UI**
 
 ---
 
-## 🛠️ Skills
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma" />
+</p>
 
 ---
 
-## 🚀 Projects
+## 🔥 Featured Projects
 
-### 🔗 TechWeb  
-- 🌐 Live: https://khadijarahmannupur-ctrl.github.io/Assienment-2/  
-- 💻 Repo: https://github.com/khadijarahmannupur-ctrl/Assienment-2  
+🔹 **TechWeb**  
+🌐 https://khadijarahmannupur-ctrl.github.io/Assienment-2/  
+💻 https://github.com/khadijarahmannupur-ctrl/Assienment-2  
 
-### 🔗 Job Application Tracker  
-- 🌐 Live: https://khadijarahmannupur-ctrl.github.io/Assienment-4/  
-- 💻 Repo: https://github.com/khadijarahmannupur-ctrl/Assienment-4  
+🔹 **Job Application Tracker**  
+🌐 https://khadijarahmannupur-ctrl.github.io/Assienment-4/  
+💻 https://github.com/khadijarahmannupur-ctrl/Assienment-4  
 
-### 🔗 GitHub Issue Tracker  
-- 🌐 Live: https://github-issues-tracer.netlify.app/  
-- 💻 Repo: https://github.com/khadijarahmannupur-ctrl/Assienment-5  
+🔹 **GitHub Issue Tracker**  
+🌐 https://github-issues-tracer.netlify.app/  
+💻 https://github.com/khadijarahmannupur-ctrl/Assienment-5  
 
-### 🔗 DigiTools  
-- 🌐 Live: https://dgitools.netlify.app/  
-- 💻 Repo: https://github.com/khadijarahmannupur-ctrl/Assienment-6  
+🔹 **DigiTools**  
+🌐 https://dgitools.netlify.app/  
+💻 https://github.com/khadijarahmannupur-ctrl/Assienment-6  
 
 ---
 
 ## 📊 GitHub Stats
-![Nupur's GitHub stats](https://github-readme-stats.vercel.app/api?username=khadijarahmannupur-ctrl&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khadijarahmannupur-ctrl&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khadijarahmannupur-ctrl&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khadijarahmannupur-ctrl&theme=tokyonight" />
+</p>
 
 ---
 
-## 📫 Contact Me
+## 📫 Connect With Me
+
 - 📧 Email: khadijarahmannupur@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/khadijarahmannupur1/  
+- 💼 LinkedIn: https://www.linkedin.com/in/khadijarahmannupur1/
 
 ---
 
-## ⚡ Fun Animation
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Learner;Dream+Big&center=true&width=500&height=50)
+## ⚡ Fun
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Learner;Dream+Big&center=true&width=500&height=50" />
+</p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:8A2BE2&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/>
