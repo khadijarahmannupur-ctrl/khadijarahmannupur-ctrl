@@ -1,3 +1,4 @@
+![Profile views](https://komarev.com/ghpvc/?username=khadijarahmannupur-ctrl&color=blue)
 <!-- Cover Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Khadija%20Rahman%20Nupur&fontSize=35&fontColor=ffffff" />
 
